@@ -1,1 +1,1 @@
-# NextBestView_human_inspired
+# NextBestView2D
